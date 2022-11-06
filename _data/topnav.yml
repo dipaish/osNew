@@ -1,0 +1,37 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Database Design
+      url: /databaseDesign
+   ## - title: Joins
+   ##   url: /joins
+   ## - title: Functions
+   ##   url: /functions
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Working with Tables
+      folderitems:
+        - title: Create Table
+          url: /WorkingwithTables
+        - title: Insert into
+          url: /insertInto
+        - title: SELECT & Operators
+          url: /select
+        - title: Datbase Import & Export
+          url: /imex
+        - title: Alter, Update & Delete
+          url: /alterTable
+        - title: Index
+          url: /myindex
+        - title: Functions
+          url: /functions
+        - title: Joins
+          url: /joins
+        #- title: View
+        #  url: /view
+  
+
