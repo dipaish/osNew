@@ -1,4 +1,4 @@
-{% include topnav.html %}
+
 # How to install WSL2 to your computer  (Windows 11) ?
 
 ### Installation Process (with PowerShell)
