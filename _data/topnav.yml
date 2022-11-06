@@ -3,35 +3,16 @@
 topnav:
 - title: Topnav
   items:
-    - title: Database Design
-      url: /databaseDesign
-   ## - title: Joins
-   ##   url: /joins
-   ## - title: Functions
-   ##   url: /functions
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Working with Tables
-      folderitems:
-        - title: Create Table
-          url: /WorkingwithTables
-        - title: Insert into
-          url: /insertInto
-        - title: SELECT & Operators
-          url: /select
-        - title: Datbase Import & Export
-          url: /imex
-        - title: Alter, Update & Delete
-          url: /alterTable
-        - title: Index
-          url: /myindex
-        - title: Functions
-          url: /functions
-        - title: Joins
-          url: /joins
-        #- title: View
-        #  url: /view
+    - title: Windows Users
+      url: /index
+    - title: MAC Users
+      url: /HAMK_BASIC_Software_MacUsers
+    - title: Windows License
+      url: /Windows_11_license_from_home_to_education_and_activate_Hyper-V
+    - title: WSL
+      url: /Windows_11_WSL
+    
+   
+
   
 
