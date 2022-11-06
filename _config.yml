@@ -3,13 +3,13 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Databases
+topnav_title: HAMK BYOD
 # this appears on the top navigation bar next to the home button
 
-site_title: Introduction to Databases
+site_title: Bring your Own Device - HAMK BYOD
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Deepak KC
+company_name: Deepak KC & Tero Keso
 # this appears in the footer
 
 host: 127.0.0.1
@@ -24,7 +24,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Databases 
+feedback_subject_line: HAMK Byod 
 
 feedback_email: deepak.curator@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
